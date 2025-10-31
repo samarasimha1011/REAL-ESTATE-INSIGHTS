@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Sunny 3BR House in San Jose",
+    "images": ["https://picsum.photos/seed/house1/640/360"],
+    "price": 1150000,
+    "sqft": 1450,
+    "beds": 3,
+    "baths": 2,
+    "city": "San Jose",
+    "state": "CA",
+    "zipcode": "95126",
+    "propertyType": "house",
+    "yearBuilt": 1988,
+    "lotSize": 4000
+  },
+  {
+    "title": "Downtown Seattle Condo",
+    "imageUrl": "https://picsum.photos/seed/condo1/640/360",
+    "price": 640000,
+    "sqft": 820,
+    "beds": 2,
+    "baths": 1,
+    "city": "Seattle",
+    "state": "WA",
+    "zipcode": "98101",
+    "propertyType": "condo",
+    "yearBuilt": 2005,
+    "lotSize": 0
+  },
+  {
+    "title": "Austin Suburban Townhouse",
+    "imageUrl": "https://picsum.photos/seed/town1/640/360",
+    "price": 420000,
+    "sqft": 1350,
+    "beds": 3,
+    "baths": 3,
+    "city": "Austin",
+    "state": "TX",
+    "zipcode": "78745",
+    "propertyType": "townhouse",
+    "yearBuilt": 2012,
+    "lotSize": 1600
+  },
+  {
+    "title": "Brooklyn 1BR Apartment",
+    "imageUrl": "https://picsum.photos/seed/apt1/640/360",
+    "price": 520000,
+    "sqft": 650,
+    "beds": 1,
+    "baths": 1,
+    "city": "New York",
+    "state": "NY",
+    "zipcode": "11201",
+    "propertyType": "apartment",
+    "yearBuilt": 1995,
+    "lotSize": 0
+  }
+]

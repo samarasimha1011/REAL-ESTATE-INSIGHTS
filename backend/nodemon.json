@@ -1,0 +1,6 @@
+{
+  "watch": ["server.js", "routes", "models", "lib"],
+  "ext": "js,json",
+  "ignore": ["data/*", "README.md"],
+  "exec": "node --env-file .env server.js"
+}
