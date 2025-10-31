@@ -43,6 +43,47 @@ const seedData = [
   zipcode: "98101",
   propertyType: "condo",
 },
+{
+  title: "Vinings Mauldin",
+  images: [
+  "https://images.pexels.com/photos/129494/pexels-photo-129494.jpeg?_gl=1*6myc0t*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MTk2MzUkajQ5JGwwJGgw",
+  "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?_gl=1*1rz1dw3*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MTk3NDYkajYwJGwwJGgw",
+  "https://images.pexels.com/photos/6315808/pexels-photo-6315808.jpeg?_gl=1*rqqjia*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MTk4MjckajU3JGwwJGgw",
+  "https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg?_gl=1*1na2cst*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MTk4NjgkajE2JGwwJGgw",
+  "https://images.pexels.com/photos/144632/pexels-photo-144632.jpeg?_gl=1*rjxq6z*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MjAzMDUkajU5JGwwJGgw"
+]
+,
+  price: 420000,
+  sqft: 880,
+  beds: 2,
+  baths: 2,
+  city: "Greenville",
+  state: "SC",
+  zipcode: "29607",
+  propertyType: "Appartment",
+},
+
+{
+  title: "saluda homes",
+  images: [
+  "https://images.pexels.com/photos/206172/pexels-photo-206172.jpeg?_gl=1*1uqwsjp*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MjA5MDEkajE3JGwwJGgw",
+  "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?_gl=1*1gwsnj7*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MjA5MzUkajU1JGwwJGgw",
+  "https://images.pexels.com/photos/534151/pexels-photo-534151.jpeg?_gl=1*1eyb756*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MjA5OTUkajU5JGwwJGgw",
+  "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?_gl=1*1qts6gr*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MjEwNDYkajgkbDAkaDA.",
+  "https://images.pexels.com/photos/3623770/pexels-photo-3623770.jpeg?_gl=1*2m2idd*_ga*ODA4NjQxNjg3LjE3NjE4NzEwNjg.*_ga_8JE65Q40S6*czE3NjE5MTk2MjQkbzIkZzEkdDE3NjE5MjEyMTQkajYwJGwwJGgw"
+]
+,
+  price: 280000,
+  sqft: 700,
+  beds: 2,
+  baths: 1,
+  city: "Montgomery",
+  state: "AL",
+  zipcode: "36007",
+  propertyType: "house",
+},
+
+
 
 
   {
