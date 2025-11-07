@@ -43,7 +43,7 @@ export default function Home() {
     <div className="home-container">
       {/* Top Search Bar */}
       <div className="search-header">
-        <h1>🏡 Real Estate Explorer</h1>
+        <h1>Real Estate Explorer</h1>
         <div className="filters">
           <input
             type="text"
