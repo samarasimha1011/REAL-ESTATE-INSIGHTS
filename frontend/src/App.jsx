@@ -45,7 +45,16 @@ export default function App() {
         <div className="navbar-container">
           {/* LEFT SECTION */}
           <div className="navbar-left">
-            <Link to="/" className="brand">Zillow.com</Link>
+           <Link to="/" className="brand">
+  <img 
+    src="/ZillowPhotos/buy-home.png" 
+    alt="logo" 
+    className="brand-icon" 
+  />
+  dream.key
+</Link>
+
+            
             <nav className="nav-links">
               <NavLink to="/buy">Buy</NavLink>
               <NavLink to="/sell">Sell</NavLink>
