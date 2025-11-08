@@ -1,12 +1,11 @@
-# 🏡 Real Estate Insights Platform
+# 🏡 dream.key Platform
 
 ![React](https://img.shields.io/badge/Frontend-React-blue?logo=react)
 ![Node.js](https://img.shields.io/badge/Backend-Node.js-green?logo=node.js)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen?logo=mongodb)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-A **full-stack MERN (MongoDB, Express, React, Node.js)** application that provides **real-estate property analytics**, **market insights**, and **interactive dashboards** — inspired by Zillow and Bluefield Group.
-
+Full-stack MongoDB + Express + React + Node.js application delivering property analytics, market trends, and interactive dashboards to help users turn rent into ownership.
 ---
 
 ## 🌟 Features
